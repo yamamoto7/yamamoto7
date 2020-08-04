@@ -4,7 +4,7 @@
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
 ## 基本情報
-氏名: yamamoto XX
+氏名: yamamoto XX  
 Twitter: [ymkn_ymmtym](https://twitter.com/ymkn_ymmtym)  
 GitHub: [yamamoto7](https://github.com/yamamoto7)  
 Blog: https://blog.ychof.com/  
