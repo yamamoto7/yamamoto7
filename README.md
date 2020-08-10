@@ -17,3 +17,5 @@ These cards are powered by https://github.com/anuraghazra/github-readme-stats
 知的情報処理システム研究室
 ### 株式会社ZOZOテクノロジーズ (2020/04 ~)
 ZOZOTOWNの開発、運用をするバックエンドエンジニアとして入社
+
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
