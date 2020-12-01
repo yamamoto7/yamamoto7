@@ -3,7 +3,7 @@
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
-## info
+## Info
 - Name: yamamoto  
 - Twitter: [ymkn_ymmtym](https://twitter.com/ymkn_ymmtym)  
 - GitHub: [yamamoto7](https://github.com/yamamoto7)  
