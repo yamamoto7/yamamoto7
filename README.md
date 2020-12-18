@@ -18,3 +18,14 @@ Backend Engineer
 
 ![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
 
+
+
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge1)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge2)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge3)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge4)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge5)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge6)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge7)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge8)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge9)
