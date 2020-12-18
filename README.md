@@ -17,4 +17,10 @@ These cards are powered by https://github.com/anuraghazra/github-readme-stats
 Backend Engineer  
 
 ![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=piyo)![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=piyo)![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=piyo)![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=piyo)![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=piyo)![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
+![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=piyo)![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=hoge)
 ![](https://komarev.com/ghpvc/?username=yamamoto7&color=green&label=piyo)
