@@ -1,5 +1,6 @@
 ![pinkumohikan's github stats](https://github-readme-stats.vercel.app/api?username=yamamoto7&count_private=true&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamamoto7&theme=buefy&layout=compact&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
