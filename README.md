@@ -1,6 +1,6 @@
 ![pinkumohikan's github stats](https://github-readme-stats.vercel.app/api?username=yamamoto7&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamamoto7&theme=buefy&layout=compact&count_private=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamamoto7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://raw.githubusercontent.com/yamamoto7/yamamoto7/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Info
 - Name: yamamoto  
