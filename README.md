@@ -1,12 +1,10 @@
-## Info
-- Name: yamamoto  
-- Twitter: [ymkn_ymmtym](https://twitter.com/ymkn_ymmtym)  
-- GitHub: [yamamoto7](https://github.com/yamamoto7)  
-- Blog: https://blog.ychof.com/  
-- Web: https://ychof.com/  
-- Education: Apr 2016 - Mar 2020 Meiji Univ, Bachelor of Computer Science  
-- Birth: 1997/08  
-  
-## History  
-### ZOZO Technologies (2020/04 ~)
-Backend Engineer  
+<p align='center'><img src="https://gpvc.arturio.dev/yamamoto7" /></p>
+
+<p align='center'>
+<a href="https://www.facebook.com/kenta.yamamoto.94064176">
+  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kentayamamoto7/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
