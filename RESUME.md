@@ -16,21 +16,34 @@
 ## Work History
 _Apr 2020 - now_  
 **株式会社ZOZO - バックエンドエンジニア**  
-- ZOZOTOWNのマイクロサービスAPI開発・運用
-  - 利用技術 ... Spring Framework, Java, SQLServer, AWS(EKS)
-- ZOZOTOWNのWEBバックエンド（レガシー）開発・運用
-  - 利用技術 ... Classic ASP, VBScript, Windows Server (IIS), SQL Server
-- ZOZOTOWNの保守管理ツール開発・運用
-  - 利用技術 ... Go, AWS(Lambda)
-- データカタログシステムの開発・運用
-  - 内容
-    - [データカタログを作成してZOZOTOWNデータベース定義をまとめた話 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/data-catalog)
-    - 0から要件定義、実装を行い社内アプリケーションとしてリリースを行った。
-    - リリース後はプロダクトオーナーとしてプロダクトの管理を行った。
-  - 利用技術 ... Ruby on Rails, Vue.js, MySQL, AWS(ECS, RDS, etc...)
-- 共通
-  - 利用技術 ... Git, GitHub Actions, Linux
-  - 利用ツール ... Datadog, Sentry, PagerDuty
+1. **ZOZOTOWNのマイクロサービスAPI開発・運用**
+- *内容*
+- *利用技術*
+  - Spring Framework, Java, SQLServer, AWS(EKS)
+2. **ZOZOTOWNのWEBバックエンド（レガシー）開発・運用**
+- *内容*
+- *利用技術*
+  - Classic ASP, VBScript, Windows Server (IIS), SQL Server
+3. **ZOZOTOWNの保守管理ツール開発・運用**
+- *内容*
+- *利用技術*
+  - Go, AWS(Lambda)
+4. **データカタログシステムの開発・運用**
+- *内容*
+  - [データカタログを作成してZOZOTOWNデータベース定義をまとめた話 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/data-catalog)
+  - 0から要件定義、実装を行い社内アプリケーションとしてリリースを行った。
+  - リリース後はプロダクトオーナーとしてプロダクトの管理を行った。
+- *利用技術*
+  - Ruby on Rails, Vue.js, MySQL, AWS(ECS, RDS, etc...)
+5. **新卒採用**
+- *内容*
+  - エンジニアとして面接を担当。
+  - カジュアル面談等の面談を担当。
+6. **共通**
+- *利用技術*
+  - Git, GitHub Actions, Linux
+- *利用ツール*
+  - Datadog, Sentry, PagerDuty, Jira, Confluence
 
 ## Education
 _Apr 2016 - Mar 2020_  
