@@ -17,10 +17,14 @@ Contact
 _Apr 2020 - now_  
 **ZOZO, inc. - Tokyo, Japan**  
 **Backend Engineer**  
-- Development and operation of microservice API.
-  - Skills ... Spring Framework, Java, SQLServer, AWS(EKS)
-- Development and operation of web backend. (legacy)
+
+- System replacement for ZOZOTOWN: Fashion Ecommerce sites
+  - Designed, developed, and operated as a backend engineer.
+  - Skills ... Java, Spring Framework
+- Development and operation of ZOZOTOWN (legacy)
   - Skills ... Classic ASP, VBScript, Windows Server (IIS), SQL Server
+- Development and operation of microservice API.
+  - Skills ... Spring Framework, Java
 - Development and operation of maintenance management tool.
   - Skills ... Go, AWS(Lambda)
 - Development and operation of Data Catalog system.
