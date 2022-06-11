@@ -18,25 +18,16 @@ _Apr 2020 - now_
 **ZOZO, inc. - Tokyo, Japan**  
 **Backend Engineer**  
 
-- System replacement for ZOZOTOWN: Fashion Ecommerce sites
-  - Designed, developed, and operated as a backend engineer.
-  - Skills ... Java, Spring Framework
-- Development and operation of ZOZOTOWN (legacy)
-  - Skills ... Classic ASP, VBScript, Windows Server (IIS), SQL Server
-- Development and operation of microservice API.
-  - Skills ... Spring Framework, Java
-- Development and operation of maintenance management tool.
-  - Skills ... Go, AWS(Lambda)
-- Development and operation of Data Catalog system.
-  - Description
-    - [Blog article - ZOZO TECH BLOG](https://techblog.zozo.com/entry/data-catalog)
-    - Defined and implemented the requirements.
-    - Released the application as an in-house application.
-    - After the release, managed the product as a product owner.
-  - Skills ... Ruby on Rails, Vue.js, MySQL, AWS(ECS, RDS, etc...)
-- Other
-  - Skillt ... Git, GitHub Actions, Linux
-  - Tools ... Datadog, Sentry, PagerDuty
+- Designed, developed and operated ZOZOTOWN(*1) (legacy) in Classic ASP, VBScript, Windows Server (IIS), SQL Server
+- Designed and developed a replacement strategy from old ZOZOTOWN to the new system as a backend engineer.
+- Designed, developed and operated micro service API in Java and Spring Boot as a backend engineer.
+- Designed, developed and operated LP publishing system in Go, AWS(Lambda) as a backend engineer.
+- Designed, developed and operated Data Catalog system in Ruby on Rails, Vue.js, MySQL, AWS(ECS, RDS, etc...) as a fullstack engineer.
+- Managed Data Catalog system as a product manager.
+  - [Blog article - ZOZO TECH BLOG](https://techblog.zozo.com/entry/data-catalog)
+- Was in charge of interviewing new graduates.
+
+(*1) ... Fashion E-commerce website.
 
 ## Education
 _Apr 2016 - Mar 2020_  
@@ -54,14 +45,17 @@ _Dec 2018 - Mar 2020_
   - 【★★★☆☆】JavaScript (Node.js, express.js)
   - 【★★★☆☆】Python (Flusk)
 - Frontend
-  - 【★★★☆☆】JavaScript (Vue.js, Nuxt.js, React.js, Gatsby)
+  - 【★★★☆☆】JavaScript (Vue.js, Nuxt.js)
+  - 【★★☆☆☆】JavaScript (React.js, Gatsby)
   - 【★★☆☆☆】Dart (Flutter)
+- DB
+  - 【★★★★☆】MySQL
+  - 【★★★☆☆】SQL Server
 - Others
   - 【★★★★☆】Git
-  - 【★★★★☆】Shell
+  - 【★★★★☆】vim
+  - 【★★★★☆】Shell (bash)
 
 ★★☆☆☆ ... I can use  
 ★★★★☆ ... Very good  
-
-## 
 
