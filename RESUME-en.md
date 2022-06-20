@@ -18,16 +18,16 @@ _Apr 2020 - now_
 **ZOZO, inc. - Tokyo, Japan**  
 **Backend Engineer**  
 
-- Designed, developed and operated ZOZOTOWN(*1) (legacy) in Classic ASP, VBScript, Windows Server (IIS), SQL Server
+- Designed, developed and troubleshooted ZOZOTOWN(*1) (legacy) in Classic ASP, VBScript, Windows Server (IIS), SQL Server as a backend engineer.
 - Designed and developed a replacement strategy from old ZOZOTOWN to the new system as a backend engineer.
-- Designed, developed and operated micro service API in Java and Spring Boot as a backend engineer.
-- Designed, developed and operated LP publishing system in Go, AWS(Lambda) as a backend engineer.
-- Designed, developed and operated Data Catalog system in Ruby on Rails, Vue.js, MySQL, AWS(ECS, RDS, etc...) as a fullstack engineer.
+- Designed, developed and troubleshooted micro service API in Java and Spring Boot as a backend engineer.
+- Designed, developed and troubleshooted LP publishing system in Go, AWS(Lambda) as a backend engineer.
+- Designed, developed and troubleshooted Data Catalog system in Ruby on Rails, Vue.js, MySQL, AWS(ECS, RDS, etc...) as a fullstack engineer.
 - Managed Data Catalog system as a product manager.
   - [Blog article - ZOZO TECH BLOG](https://techblog.zozo.com/entry/data-catalog)
-- Was in charge of interviewing new graduates.
+- Was an interviewer for new graduate hires.
 
-(*1) ... Fashion E-commerce website.
+(*1)ZOZOTOWN ... Fashion E-commerce website.
 
 ## Education
 _Apr 2016 - Mar 2020_  
