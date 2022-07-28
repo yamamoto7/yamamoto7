@@ -9,5 +9,8 @@
 </a>
 </p>
 <p align='center'>
-  <a href="https://ychof.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a>
+<a href="https://twitter.com/ymkn_ymmtym">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://ychof.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a>
 </p>
