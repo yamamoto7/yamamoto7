@@ -14,20 +14,13 @@ Contact
 </a>
 
 ## Work History
-_Apr 2020 - now_  
+_Apr 2020 - 2024/09_  
 **ZOZO, inc. - Tokyo, Japan**  
 **Backend Engineer**  
 
-- Designed, developed and troubleshooted ZOZOTOWN(*1) (legacy) in Classic ASP, VBScript, Windows Server (IIS), SQL Server as a backend engineer.
-- Designed and developed a replacement strategy from old ZOZOTOWN to the new system as a backend engineer.
-- Designed, developed and troubleshooted micro service API in Java and Spring Boot as a backend engineer.
-- Designed, developed and troubleshooted LP publishing system in Go, AWS(Lambda) as a backend engineer.
-- Designed, developed and troubleshooted Data Catalog system in Ruby on Rails, Vue.js, MySQL, AWS(ECS, RDS, etc...) as a fullstack engineer.
-- Managed Data Catalog system as a product manager.
-  - [Blog article - ZOZO TECH BLOG](https://techblog.zozo.com/entry/data-catalog)
-- Was an interviewer for new graduate hires.
-
-(*1)ZOZOTOWN ... Fashion E-commerce website.
+_Apr 2024/10 - now_  
+**FAcraft, inc. - Aichi, Japan**  
+**CTO**  
 
 ## Education
 _Apr 2016 - Mar 2020_  
