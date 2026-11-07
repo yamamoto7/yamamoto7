@@ -1,6 +1,6 @@
 <!-- oss-card:start -->
 <div>
-<picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/01-dark.svg"><img src="oss-card/01-light.svg" alt="OSS Contributions: 11 merged PRs · 8 owners" width="495" align="left"></picture>
+<a href="https://github.com/yamamoto7/oss-activity-card" title="OSS Contributions: 11 merged PRs · 8 owners"><picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/01-dark.svg"><img src="oss-card/01-light.svg" alt="OSS Contributions: 11 merged PRs · 8 owners" width="495" align="left"></picture></a>
 <a href="https://github.com/grafana/mcp-grafana/pull/1496" title="Featured: grafana/mcp-grafana#1496: fix(prometheus): apply limitPerMetric in list_prometheus_metric_metadata"><picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/02-dark.svg"><img src="oss-card/02-light.svg" alt="Featured: grafana/mcp-grafana#1496: fix(prometheus): apply limitPerMetric in list_prometheus_metric_metadata" width="495" align="left"></picture></a>
 <a href="https://github.com/grafana" title="grafana: 2 PRs"><picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/03-dark.svg"><img src="oss-card/03-light.svg" alt="grafana: 2 PRs" width="495" align="left"></picture></a>
 <a href="https://github.com/grafana/mcp-grafana" title="grafana/mcp-grafana: 3.6k stars, 2 PRs"><picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/04-dark.svg"><img src="oss-card/04-light.svg" alt="grafana/mcp-grafana: 3.6k stars, 2 PRs" width="495" align="left"></picture></a>
@@ -21,6 +21,7 @@
 <a href="https://github.com/nicklockwood/SwiftFormat" title="nicklockwood/SwiftFormat: 9k stars, 1 PR"><picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/19-dark.svg"><img src="oss-card/19-light.svg" alt="nicklockwood/SwiftFormat: 9k stars, 1 PR" width="495" align="left"></picture></a>
 <a href="https://github.com/nicklockwood/SwiftFormat/pull/2877" title="nicklockwood/SwiftFormat#2877: Fix tokenizer error for enums with value generic parameters"><picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/20-dark.svg"><img src="oss-card/20-light.svg" alt="nicklockwood/SwiftFormat#2877: Fix tokenizer error for enums with value generic parameters" width="495" align="left"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/21-dark.svg"><img src="oss-card/21-light.svg" alt="Also contributed to zitadel (1), st-tech (1), baianat (1). Since Jan 2019" width="495" align="left"></picture>
+<a href="https://github.com/yamamoto7/oss-activity-card" title="Made with oss-activity-card"><picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/22-dark.svg"><img src="oss-card/22-light.svg" alt="Made with oss-activity-card" width="495" align="left"></picture></a>
 <br clear="all">
 </div>
 <!-- oss-card:end -->
