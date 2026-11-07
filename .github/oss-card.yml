@@ -1,0 +1,5 @@
+# Settings for the OSS activity card: https://github.com/yamamoto7/oss-activity-card
+layout: compact
+
+groups:
+  max_owners: 8
