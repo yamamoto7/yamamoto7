@@ -2,15 +2,15 @@
 # Everything is commented out, so the card uses the defaults.
 # Full reference: https://github.com/yamamoto7/oss-activity-card/blob/main/examples/oss-card.yml
 
-# layout: full             # or compact (one badge per owner)
 # title: "{user}'s OSS Contributions"
 # since: auto              # or a date like 2024-01-01
 
 # groups:
-#   repos: false           # true or auto to add repo headings inside each owner
+#   repos: true            # repo headings with stars; false or auto (only owners with 2+ repos)
 #   sort: recent           # or count
 #   max_owners: 5
 #   max_prs: 2
+#   max_badges: 12         # owners past max_owners shown as badges in the footer
 
 # priority:
 #   default: 0             # -1 shows only the owners listed below
