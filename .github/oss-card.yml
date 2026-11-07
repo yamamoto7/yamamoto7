@@ -1,5 +1,25 @@
 # Settings for the OSS activity card: https://github.com/yamamoto7/oss-activity-card
-layout: compact
+# Everything is commented out, so the card uses the defaults.
+# Full reference: https://github.com/yamamoto7/oss-activity-card/blob/main/examples/oss-card.yml
 
-groups:
-  max_owners: 8
+# layout: full             # or compact (one badge per owner)
+# title: "{user}'s OSS Contributions"
+# since: auto              # or a date like 2024-01-01
+
+# groups:
+#   repos: false           # true or auto to add repo headings inside each owner
+#   sort: recent           # or count
+#   max_owners: 5
+#   max_prs: 2
+
+# priority:
+#   default: 0             # -1 shows only the owners listed below
+#   owners:
+#     grafana: 10
+
+# featured:
+#   - pr: grafana/mcp-grafana#1496
+#     note: One-line note shown under the title
+
+# exclude:
+#   - some-org
