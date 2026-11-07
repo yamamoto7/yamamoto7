@@ -19,8 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      # Testing the development branch. Switch back to @v1 after the release.
-      - uses: yamamoto7/oss-activity-card@dev
+      - uses: yamamoto7/oss-activity-card@v1
         with:
           readme: README_tmp.md
 
