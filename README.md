@@ -1,5 +1,3 @@
-### OSS Contributions (linked, one image per row)
-
 <!-- oss-card:start -->
 <div>
 <picture><source media="(prefers-color-scheme: dark)" srcset="oss-card/01-dark.svg"><img src="oss-card/01-light.svg" alt="OSS Contributions: 11 merged PRs · 8 owners" width="495" align="left"></picture>
@@ -27,9 +25,3 @@
 </div>
 <!-- oss-card:end -->
 
-### OSS Contributions (single image, for comparison)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./oss-card-dark.svg">
-  <img alt="Open source projects I've contributed to, with my merged pull requests" src="./oss-card.svg">
-</picture>
