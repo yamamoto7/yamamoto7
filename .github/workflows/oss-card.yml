@@ -8,6 +8,7 @@ on:
   push:
     paths:
       - .github/oss-card.yml
+      - .github/workflows/oss-card.yml
 
 permissions:
   contents: write
@@ -18,11 +19,14 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: yamamoto7/oss-activity-card@v1
+      # Testing the development branch. Switch back to @v1 after the release.
+      - uses: yamamoto7/oss-activity-card@dev
+        with:
+          readme: README_tmp.md
 
       - name: Commit the card if it changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add oss-card.svg oss-card-dark.svg
+          git add -A oss-card.svg oss-card-dark.svg oss-card/ README_tmp.md
           git diff --cached --quiet || (git commit -m "Update OSS activity card" && git push)
