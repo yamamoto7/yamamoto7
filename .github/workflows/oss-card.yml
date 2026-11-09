@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: yamamoto7/oss-activity-card@v1
+      - uses: yamamoto7/oss-activity-card@vdev
         with:
           readme: README.md
 
