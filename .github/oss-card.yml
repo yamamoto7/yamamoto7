@@ -20,8 +20,10 @@ priority:
     detekt: 8
 
 featured:
-  - pr: grafana/mcp-grafana#1496
-    note: One-line note shown under the title
+  - pr: grpc-ecosystem/grpc-gateway#7653
+    note: Fixed an issue open since 2018. Generated code failed to compile for optional enum and bytes path params.
+  - pr: webpro-nl/knip#2319
+    note: Knip reported custom Next.js image loaders as unused, and --fix could delete them. Now they're entry files.
 
 exclude:
   - FAcraftTech
