@@ -1,4 +1,5 @@
 ## 🌱 OSS Contributions
+<sub>🐛 Bug fix · ✨ Feature / rule · 📝 Docs · 🌏 i18n</sub>
 
 | Project | Contributions |
 |:--|:--|
@@ -15,4 +16,3 @@
 | <a href="https://github.com/astral-sh/setup-uv"><b>astral-sh/setup-uv</b></a><br><sub>GitHub Action for uv</sub><br><img src="https://img.shields.io/github/stars/astral-sh/setup-uv?style=flat-square&logo=github&label=%E2%98%85" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | 🐛 [Resolve partial PEP 440 specifiers with PEP 440 semantics](https://github.com/astral-sh/setup-uv/pull/1128) |
 
 
-<sub>🐛 Bug fix · ✨ Feature / rule · 📝 Docs · 🌏 i18n
