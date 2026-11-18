@@ -2,13 +2,13 @@
 name: OSS activity card
 
 on:
-  schedule:
-    - cron: "17 0 * * *" # daily
+  # schedule:
+    # - cron: "17 0 * * *" # daily
   workflow_dispatch:
-  push:
-    paths:
-      - .github/oss-card.yml
-      - .github/workflows/oss-card.yml
+  # push:
+    # paths:
+      # - .github/oss-card.yml
+      # - .github/workflows/oss-card.yml
 
 permissions:
   contents: write
